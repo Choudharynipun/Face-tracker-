@@ -1,1 +1,1 @@
-This deep learning model tracks the face and it's components using open CV2. 
+This model tracks the face and it's components using CV2. It detects and identifies various components at various positions of face which renders to make a full face tracker.
